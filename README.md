@@ -1,8 +1,8 @@
 <h1 align="center">
-    Hyperf-Scaffold
+    ContentService
 </h1>
 
 <p align="center">
-    基于Hyperf的微服务脚手架
+    内容服务
 </p>
 
